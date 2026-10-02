@@ -6,7 +6,7 @@ Two co-located sensors (in-house electrochemical vs. commercial TCD/paramagnetic
 reference) on a shared manifold; 103 recorded days, 8,041,007 one-hertz samples.
 
 `make_all_figures.py` is the complete, single-file pipeline: it builds the merged
-dataset from the raw 1 Hz logs and renders manuscript Figs. 10-13 and 15 into `output/figures/`. 
+dataset from the raw 1 Hz logs and renders manuscript Figs. 10-13 into `output/figures/`. 
 Edit the PATHS block, then run `python3 make_all_figures.py`.
 
 ## Data availability
